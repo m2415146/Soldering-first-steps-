@@ -13,6 +13,8 @@ Between soldering sessions, you need to put the soldering machine in a special h
 
 Before soldering, we treat the surfaces with flux – it is needed to remove the oxide film from metals.  
 
+between soldering sessions, if solder remains on the tip of the soldering iron, it can be removed using a special device. in our case, it looks like a metal sponge (copper), which allows you to use it without waiting for the soldering iron to cool down.  
+
 The flux is an acid. If left alone, it can contribute to the development of corrosion over time. To avoid this, you need to use alcohol to treat the surface after soldering. In our case, there was a napkin soaked in isopropyl alcohol.  
 
 ## A learning task.  
